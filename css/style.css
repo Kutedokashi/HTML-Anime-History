@@ -1,0 +1,17 @@
+.box{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.box h1{
+    background-color: gray;
+}
+
+.box h2{
+    background-color: gray;
+}
+
+#video{
+    width: 1500px;
+    height: 1000px;
+}
