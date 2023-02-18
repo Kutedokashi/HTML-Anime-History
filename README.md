@@ -1,7 +1,7 @@
 # Anime-History
 
 # What is it?
-This page tells the story of anime, its beginnings and how it has entered the industry globally.
+This project has three pages, a mini store, an about me and a homepage where the history of anime is told, its beginnings and how it entered the global industry.
 
 # How does it work?
 The page has a navigation list that allows you to move between the other pages and back between them.
